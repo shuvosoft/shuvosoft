@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shuvo Sarker</h1>
+<h1 align="center" style="color:red">Hi 👋, I'm Shuvo Sarker</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/shuvosoft" alt="shuvosoft" /></a> </p>
 
 - 📫 How to reach me **shuvosarker.se@gmail.com**
 

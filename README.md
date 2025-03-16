@@ -1,6 +1,19 @@
 <h1 align="center" style="color:red">Hi 👋, I'm Shuvo Sarker</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
+<a target="_blank" href="https://itkhansunny.me/"><img width="500" align="right" src="https://raw.githubusercontent.com/shuvosoft/shuvosoft/main/code.gif"></a>
 
+## 👋 &nbsp; Hey there! I'm Shuvo Sarker
+
+### About Me
+
+Hi, This is Shuvo. A Passionate Full Stack Developer.
+I love to play with coding, building software, and focusing on learning new technologies. Software application developer with 4+ years of hands-on experience in LARAVEL Framework, Raw PHP, Database Management (SQL, PL/SQL),
+and accounting systems, familiar with different software development technologies like DOM, ORM, and MVC. I am working on Wordpress Theme Development, Wordpress Plugins Development and Laravel Application Development.
+I am skilled in techno-functional activities like programming skills, problem-solving ability, planning, and requirement analysis.
+🔭 I’m currently working on Business ERP, Multi-Vendor E-commerce and PHP as Core Language
+<br/>
+<br/>
+<br/>
 
 - 📫 How to reach me **shuvosarker.se@gmail.com**
 

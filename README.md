@@ -1,9 +1,10 @@
 <h1 align="center" style="color:red">Hi 👋, I'm Shuvo Sarker</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
-<br/><br/>
+## 👋 &nbsp; About Me <br/>
+<br/>
 <a target="_blank" href="https://itkhansunny.me/"><img width="500" align="right" src="https://raw.githubusercontent.com/shuvosoft/shuvosoft/main/code1.gif"></a>
 
-## 👋 &nbsp; About Me
+
 <p style="text-align:justify,padding-right:10px">
 Hi, This is Shuvo. A Passionate Full Stack Developer.
 I love to play with coding, building software, and focusing on learning new technologies. Software application developer with 4+ years of hands-on experience in LARAVEL Framework, Raw PHP, Database Management (SQL, PL/SQL),
